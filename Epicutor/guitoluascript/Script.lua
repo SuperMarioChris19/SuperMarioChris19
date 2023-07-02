@@ -30,7 +30,7 @@ Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(0.308500409, 0, 0.118245102, 0)
 Frame.Size = UDim2.new(0.581041157, 0, 0.763265431, 0)
-Frame.Visible = false
+Frame.Visible = true
 
 TextLabel.Parent = Frame
 TextLabel.BackgroundColor3 = Color3.fromRGB(27, 27, 27)
